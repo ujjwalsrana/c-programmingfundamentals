@@ -1,3 +1,4 @@
+//TASK: Write a C++ program using nested for loops to display a pyramid pattern of stars based on the number of rows entered by the user.
 #include<iostream>
 using namespace std;
 int main()
