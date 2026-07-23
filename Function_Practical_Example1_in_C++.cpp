@@ -7,7 +7,7 @@ and maintain.
 using namespace std;
 // function syntax
 /*
-data type function-name(parameters)--> formal parameters
+data type function-name(parameters)--> formal parameters 
 
 {
 return
@@ -25,7 +25,7 @@ int main()
 	cin>>num1;
 	cout<<"Entter Second Number: ";
 	cin>>num2;
-	cout<<"The Sum is: " <<sum(num1, num2); // formal parameterers
+	cout<<"The Sum is: " <<sum(num1, num2); // actual parameterers
 	
 	return 0;
 }
