@@ -17,7 +17,10 @@ return
 // function prototype
 //type function-name (parameter)
 */
-int sum(int a, int b);
+
+//Note: inst sum(int a, b) syntax is not accepted in function. you must write/define datatype int before b.
+// int sum(int, int) syntax is accepted / allowed in function
+int sum(int a, int b);  
 int main()
 {
 	int num1, num2;
