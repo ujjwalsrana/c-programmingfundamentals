@@ -5,7 +5,10 @@ int factorial(int num);
 
 int main()
 {
-	//We will create Factorial Function using recursion
+	//We will create Factorial Function using recursion. 
+	// For Example 21-> 2*1
+	// 0 and 1 factorial = 1
+	// factorial for 51 will be 51=5*4*3*2*1 and total will be 120
 	int num;
 	cout<<"Enter any positive integer: ";
 	cin>>num;
