@@ -84,6 +84,11 @@ int main()
 	{
 		cout<<ptr[i]<<endl;
 	}
-	
+	delete []ptr;
+	cout<<"Value in the array after memory deallocation: "<<endl;
+	for(int i=0; i<size; i++)
+	{
+		cout<<ptr[i]<<endl;
+	}
 	return 0;
 }
