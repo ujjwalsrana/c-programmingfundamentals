@@ -1,5 +1,5 @@
 /*
-Structures and Unions in C++ (For School Children)
+Structures and Unions in C++
 STRUCTURE (struct)
 What is a Structure?
 A structure is a container that holds different types of data together about one thing, like a student's record with name, age, and marks.
