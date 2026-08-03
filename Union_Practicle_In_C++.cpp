@@ -2,7 +2,8 @@
 Structures and Unions in C++
 STRUCTURE (struct)
 What is a Structure?
-A structure is a container that holds different types of data together about one thing, like a student's record with name, age, and marks.
+A structure is a container that holds different types of data together about one thing, 
+like a student's record with name, age, and marks.
 
 Simple Analogy:
 
@@ -45,7 +46,8 @@ Size = sum of all members (plus some padding)
 
 UNION (union)
 What is a Union?
-A union is like a structure, but all members share the same memory space — only one member can be used at a time.
+A union is like a structure, but all members share the same memory space only one member 
+can be used at a time.
 
 Simple Analogy:
 
@@ -95,7 +97,8 @@ Size			Sum of all members									Size of largest member
 Usage			Use all members together							Use only ONE member at a time
 When to use		Student record, employee details					Saving memory, different data types at different times
 
-Remember: Use struct when you need everything together. Use union when you need ONE thing at a time to save memory!
+Remember: Use struct when you need everything together. 
+Use union when you need ONE thing at a time to save memory!
 
 */
 
