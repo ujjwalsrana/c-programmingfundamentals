@@ -18,7 +18,9 @@ int main()
 	return 0;
 }
 
-//Note: di.sno and di.letter wil return only memory garabage value and thats why it won't display exact output but for the last one iit display memory accordingly
+//Note: di.sno and di.letter wil return only memory garabage value 
+//and thats why it won't display exact output but for the last one iit display memory accordingly
 
-// Therefore among di.sno, di.lettet and di.salary UNION ALWAYS WORKS ON THE LAST ONE for current
+// Therefore among di.sno, di.lettet and di.salary UNION ALWAYS WORKS ON THE LAST ONE for MEMORY 
 // situation di.salary is the last one so thats why union work for di.salary only
+// OTHER TWO WHICH IS SN AND LETTER WON'T GET MEMORY
